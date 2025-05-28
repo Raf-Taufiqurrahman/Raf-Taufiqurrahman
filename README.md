@@ -1,8 +1,8 @@
 <div>
   <h1>Hi there! 👋</h1>
   <p>
-      Perkenalkan, nama saya Rafi Taufiqurrahman. Saat ini saya bekerja di <strong>PT Tri Sinar Purnama sebagai Junior Web Developer</strong>.
-      saat ini saya telah memiliki pengalaman kurang lebih 1 tahun dalam mengembangkan dan memelihara aplikasi web. Dengan latar belakang di bidang Sistem Informasi, saya memiliki keahlian dalam teknologi backend dan frontend yang memungkinkan saya menciptakan solusi yang efektif dan efisien.
+      Perkenalkan, nama saya Rafi Taufiqurrahman. Saat ini saya bekerja di <strong>PT Mitra Abadi Mahakam sebagai Fullstack Developer</strong>.
+      saat ini saya telah memiliki pengalaman kurang lebih 2 tahun dalam mengembangkan dan memelihara aplikasi web. Dengan latar belakang di bidang Sistem Informasi, saya memiliki keahlian dalam teknologi backend dan frontend yang memungkinkan saya menciptakan solusi yang efektif dan efisien.
 
 Saya menikmati bekerja dalam tim dan meyakini bahwa kolaborasi merupakan kunci untuk mencapai hasil terbaik. Dengan semangat untuk terus belajar dan berkembang, saya berusaha menghadirkan inovasi yang bermanfaat bagi pengguna.
 
@@ -56,6 +56,7 @@ Saya siap menghadapi tantangan baru dan berkontribusi dalam proyek-proyek menari
   <h2>🌱 What I'm Learning</h2>
   <ul>
     <li>Exploring React & TypeScript</li>
+    <li>Exploring React Native</li>
   </ul>
 
   <h2>📫 Get in Touch</h2>
